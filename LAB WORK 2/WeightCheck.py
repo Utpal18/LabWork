@@ -1,4 +1,4 @@
-weight=int(input("Enter your weight: "))
+weight=float(input("Enter your weight: "))
 SIUnit=input("Is the weight in kg or lbs? ")
 if SIUnit=="kg":
     new_weight=weight*2.2
