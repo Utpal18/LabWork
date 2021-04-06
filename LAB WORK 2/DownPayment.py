@@ -4,5 +4,4 @@ if credit=="true":
     downpayment=(10/100)*price
 else:
     downpayment=(20/100)*price
-fa
 print("The downpayment is: ",downpayment)
